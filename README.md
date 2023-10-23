@@ -1,5 +1,5 @@
-##Overview 🌟
-###TinDog - Website I built when I was learning Bootstrap
+## Overview 🌟
+### TinDog - Website I built when I was learning Bootstrap
 
 I created a simple website named TinDog during my learning phase of Bootstrap. It served as a practical exercise to grasp the key features and functionalities of Bootstrap, a popular front-end framework. The website aimed to simulate a fictional application for connecting dog owners and their furry friends, providing a platform for arranging doggy playdates and socializing. Despite its simplicity, it allowed me to understand the fundamentals of responsive design, grid systems, and the various components offered by Bootstrap to streamline web development.
 
